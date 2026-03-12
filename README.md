@@ -40,6 +40,9 @@ Power BI Dashboards
 - SQL
 - Python
 
+## Live Demo
+https://moksh5422.github.io/clinical-readmission-intelligence-engine
+
 ## Live Project
 
 Portfolio page:
