@@ -2593,7 +2593,7 @@ document.querySelectorAll('.reveal').forEach(el=>obs.observe(el));
 function switchNb(id,el){
   document.querySelectorAll('#nb1,#nb2,#nb3').forEach(t=>t.classList.remove('act'));
   document.querySelectorAll('.nb-tab').forEach(t=>t.classList.remove('active'));
-  document.getEleme  document.getElementById(id).classList.add('act');
+  document.getElementById(id).classList.add('act');
   el.classList.add('active');
 }
 
